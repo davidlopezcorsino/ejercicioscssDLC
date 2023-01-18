@@ -1,0 +1,23 @@
+
+
+
+.menu a{
+    background-color: blueviolet;font-size: 60px;color: aliceblue;
+  
+}
+.menu p {
+    margin:100px;
+}
+
+.menu li {list-style: none;}
+
+
+a:hover{
+    color: red;
+}
+div{
+    background-color: blue;padding: 20px;
+}
+.todo {
+    background-color:yellow;width:   50%;
+}
